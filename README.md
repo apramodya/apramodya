@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=apramodya&hide=contribs&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Pramodya's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apramodya&hide=html,css,php&langs_count=4&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=apramodya&hide=contribs&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Pramodya's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apramodya&hide=html,css,php,java&langs_count=4&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![Pramodya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=apramodya)](https://github.com/anuraghazra/github-readme-stats)
