@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=apramodya&hide=contribs&count_private=true&show_icons=true&theme=github_dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=apramodya&hide=html,css,php&langs_count=4&layout=compact
+https://github-readme-stats.vercel.app/api/wakatime?username=apramodya
+
 <!--
 **apramodya/apramodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
