@@ -3,6 +3,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=apramodya&hide=contribs&count_private=true&show_icons=true&theme=github_dark&hide_border=true" alt="Pramodya's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apramodya&hide=html,css,php,java&langs_count=4&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apramodya&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![wakatime](https://wakatime.com/badge/user/01d3f98b-016a-4f67-8c2b-473eb692bfdf.svg)](https://wakatime.com/@01d3f98b-016a-4f67-8c2b-473eb692bfdf)
 
 **Languages and Tools:**  
