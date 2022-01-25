@@ -8,6 +8,12 @@
 [![wakatime](https://wakatime.com/badge/user/01d3f98b-016a-4f67-8c2b-473eb692bfdf.svg)](https://wakatime.com/@01d3f98b-016a-4f67-8c2b-473eb692bfdf)
 ![](https://komarev.com/ghpvc/?username=apramodya&color=green)
 
+**Latest Apps Released on App Store:**  
+
+- [WakaTime iOS](https://pages.flycricket.io/wakatime-ios/) - A 3rd party iOS clinet app for [WakaTime](https://wakatime.com)
+ 
+- [Score Cribbage iOS](https://pages.flycricket.io/cribbage-calculator/) - A simple Cribbage Score Calculator. Enter the cards in your hand and let the app give your score
+
 **Languages and Tools:**  
 
 <a href="https://developer.apple.com/swift/" target="_blank">
