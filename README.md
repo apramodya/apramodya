@@ -6,7 +6,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apramodya&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![wakatime](https://wakatime.com/badge/user/01d3f98b-016a-4f67-8c2b-473eb692bfdf.svg)](https://wakatime.com/@01d3f98b-016a-4f67-8c2b-473eb692bfdf)
-![](https://komarev.com/ghpvc/?username=apramodya&color=green)
 
 **Latest Apps Released on App Store:**  
 
